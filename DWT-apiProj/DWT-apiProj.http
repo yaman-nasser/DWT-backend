@@ -1,0 +1,6 @@
+@DWT_apiProj_HostAddress = http://localhost:5107
+
+GET {{DWT_apiProj_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
